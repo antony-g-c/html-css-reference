@@ -1,0 +1,22 @@
+1) define Cascading Style Sheets(CSS)
+2) What is the difference between HTML and CSS?
+3) what is the benefit of having your all style definintions in file?
+4) create an html page with a body of header, a paragrah of test and a footer.
+6) how does inheritance work in html in case of styles?
+7) where do you place you style declaration in an html file?
+8) create a style where body color is black an background is white, h1 color is red, 
+   h2 is blue and h3 is green and paragraph has font size of 10 pixel and align to the center.
+9) cut and paste the style declaration in a file called style.css and save to a folder called css under your html folder.
+10)link style.css to your html file.
+11)what is precedence of styles applied internaly/externaly?
+12) how can you make a tag differentiate from other same tags in a page and apply unique style to it?
+13) add another paragraph in the html file and apply unique style to it?
+14) how to define a generic class and apply the same to other new paragarph
+15) how to assign multiple class to a tag?
+16) what is the alternative way of applying unique styles to a tag instead of "class"? add an example to your page.
+17) What is a media speciafic style sheet? add an example to your html page?
+18) Add a image of different media type table to your html page.
+19) Add a image of special characters table that you can print on your html page. 
+20) What and all you can do using CSS to make a web page visible properly on ipads,iphones,and android phones?
+21) show example of using <section> tags to apply different styles for nested tags?
+

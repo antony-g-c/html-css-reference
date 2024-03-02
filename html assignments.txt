@@ -1,0 +1,28 @@
+1) Create an html page that has a tittle,meta, link to a css,js and image files and it 
+   has a navigation bar with link to other html pages, header,body with a paragraph of text and a footer .
+2) add a header for each following step you are going to do
+3) add some orderd and unorderd lists items
+4) add a line break
+5) add a not about <wbr> and show an example at the end of the body
+6) add a horizontal rule to the begining and end of the body
+7) copy body text paragraph and add three blank space in the begining
+8)copy body text paragraph and make some text bold in the pragraph
+9)copy body text paragraph and make some text italicize in the pragraph
+10)create some text with three rows and colomuns, spaced each column with tab and print as in the web page
+11)show some text with all available heading levels(h1-h6)
+12)describe <blockquote> tag and show an example with it's description.
+13)copy body text paragraph and make some text in small size.
+14)add a comment in html file
+15)create a numbered list items
+16)make same list numbered by alphabets
+17)make same list as bulleted
+18) add a nested list
+19) add a definition list
+20) add an abbreviation for "right arm skillset" 
+21) insert special characters for copyright, trademark, ampersand
+22) print some math formulas using special characters...
+
+
+
+ 
+

@@ -1,0 +1,16 @@
+1) create an html file with three paragraphs of texts each having a heading of different sizes
+2) create an css file and apply three different sizes and color for each paraharph and headings
+3) indent first paragraph 30px, second paragraph 2 centimeter and third 20%
+4) add image of color and hexadecimal value table to your html page
+5) change the default font of paragraph one
+6) add image of available font styles table to html page
+7) change text allignment of first paragraph to center and second to right and third to the left
+8) change first paragraph heading to uppercase
+9) change second paragraph heading to lowecase
+10) capitalize third paragraph haeding
+11) add an orderd list to the web page and apply double line spacing
+12) change letter spacing first paragraph heading 6px
+13) add a background color to whole page
+14) highlight first paragraph heading
+15) add an unorderd bulleted list to the html file and print it horizondaly.
+16) create a custom bullets image and apply to the list.
